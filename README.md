@@ -75,7 +75,7 @@ npm install
 
 5. Run the application:
 ```
-node server.js
+node server.js/npm start
 ```
 Or, using nodemon:
 ```
