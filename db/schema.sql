@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS letsTalkTech_db;
-CREATE DATABASE letsTalkTech_db;
+DROP DATABASE IF EXISTS letstalktech_db;
+CREATE DATABASE letstalktech_db;
