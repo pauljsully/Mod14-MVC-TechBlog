@@ -85,7 +85,7 @@ nodemon server.js
 
 ## Usage
 
-Heroku Link: 
+Heroku Link: (https://git.heroku.com/letstalktechblog.git)
 
 ## License
 
